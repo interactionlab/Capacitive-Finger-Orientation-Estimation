@@ -15,7 +15,7 @@ Below is the BibTex entry for citing this work
   publisher = {ACM},
   address = {New York, NY, USA},
   series = {ISS'17},
-  keywords = fFinger orientation; touchscreen; mobile device; capacitive sensing},
+  keywords = {Finger orientation; touchscreen; mobile device; capacitive sensing},
   doi = {10.1145/3132272.3134130},
   url = {https://doi.org/10.1145/3132272.3134130}
 }
